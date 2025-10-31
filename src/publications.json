@@ -1,0 +1,76 @@
+{
+  "certificates": [
+    {
+      "title": "Supervised Machine Learning",
+      "issuer": "Coursera",
+      "date": "2023-03",
+      "credentialId": "9KF4GUXPV7QH",
+      "credentialUrl": "https://www.coursera.org/account/accomplishments/certificate/9KF4GUXPV7QH",
+  "description": "Introductory course focused on supervised learning algorithms (regression and classification), evaluation metrics, and model selection techniques with practical Python exercises.",
+      "tags": ["Machine Learning", "Course", "Online"],
+      "badge": null
+    },
+    {
+      "title": "Data Science",
+      "issuer": "Coursera",
+      "date": "2023-06",
+      "credentialId": "E8ENMC4CJ8KP",
+      "credentialUrl": "https://www.coursera.org/account/accomplishments/certificate/E8ENMC4CJ8KP",
+  "description": "Comprehensive introduction to Data Science covering data preprocessing, feature engineering, exploratory data analysis and visualization. Includes hands-on work with supervised and unsupervised algorithms (regression, classification, clustering) and model evaluation using Python libraries.",
+      "tags": ["Data Science", "Course", "Online"],
+      "badge": null
+    },
+    {
+      "title": "Python",
+      "issuer": "HackerRank",
+      "date": "2023-02",
+      "credentialId": "98645E3A2856",
+      "credentialUrl": "https://www.hackerrank.com/certificates/98645e3a2856",
+  "description": "Fundamentals of Python programming: data types, operators, control flow, strings, collections, functions, modularity, and basic object-oriented concepts; reinforced with HackerRank practice problems.",
+      "badge": null
+    },
+    {
+      "title": "SQL",
+      "issuer": "HackerRank",
+      "date": "2022-10",
+      "credentialId": "F780543F5F05",
+      "credentialUrl": "https://www.hackerrank.com/certificates/f780543f5f05",
+  "description": "Core SQL skills: writing SELECT queries, filtering, JOINs, GROUP BY and aggregation, and basic data manipulation for relational databases.",
+      "badge": null
+    },
+    {
+      "title": "Introduction to Large Language Model ",
+      "issuer": "NPTEL",
+      "date": "2025-05",
+      "credentialId": "NPTEL25CS45S646400841",
+      "credentialUrl": "https://drive.google.com/file/d/1VsBmlXZA8RVcZUOTjQt4Fiaf_tgut0ar/view?usp=drive_link",
+  "description": "12-week course by IIT Madras covering the theory and architectures of large language models (transformers), fine-tuning approaches, and practical NLP applications.",
+      "badge": null
+    },
+    {
+      "title": "Data handling and visualization using MATLAB",
+      "issuer": "Madhav Institute of Technology and Science",
+      "date": "2022-01",
+      "credentialId": "22SIP1/19",
+      "credentialUrl": "https://drive.google.com/file/d/1uXXCHLSiR8eUlZGemErLLzajMyZAilq3/view?usp=sharing",
+  "description": "Data handling and visualization using MATLAB: importing/exporting data, preprocessing, plotting and reporting; awarded 'A' grade.",
+      "badge": null
+    },
+    {
+      "title": "Python for Data Science",
+      "issuer": "Great Learning", 
+      "date": "2022-08",
+      "credentialUrl": "https://drive.google.com/file/d/12_-IR-vIh1y_hUJ91CWqoHFbXgE0eehI/view",
+  "description": "Python for Data Science: hands-on training in data cleaning with pandas, exploratory data analysis, visualization, and introductory machine learning workflows using scikit-learn; project-based learning and notebooks.",
+      "badge": null
+    },
+    {
+      "title": "All India NCAT",
+      "issuer": "Naukri campus", 
+      "date": "2025-05",
+      "credentialUrl": "https://drive.google.com/file/d/1gRUqFvt0lI4G_K7gd-6eGd_ZPtIJDTZe/view?usp=drive_lin",
+  "description": " I achieved an All India Rank of 1886 in NCAT.",
+      "badge": null
+    }
+  ]
+}

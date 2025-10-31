@@ -1,0 +1,31 @@
+{
+  "education": [
+    {
+      "name": "Madhav Institute of Technology & Science",
+      "href": "https://www.mitsgwalior.in",
+      "title": "B.Tech in Artificial Intelligence and Data Science",
+      "logo": "/mits.png",
+      "start": "Aug 2021",
+      "end": "May 2025",
+      "location": "Gwalior, India",
+      "description": [
+        "CPI: 8.9 CGPA",
+        "Coursework in Intro to AI & Data Science, DBMS, Python Programming, CNP, Machine Learning and Optimization, Information Retrieval, Linear Algebra, Statistics & Probability, Generative AI.",
+        "Projects include Sales Mart Prediction, Speech Recognition, and AI Multi Agent Knowledge Navigator"
+      ]
+    },
+    {
+      "name": "Vidya Bhawan Public School",
+      "href": "https://vbps.edu.in/",
+      "title": "Senior Secondary Education – PCM (Physics, Chemistry, Mathematics)",
+      "logo": "/vbps.png",
+      "start": "Aug 2020",
+      "end": "May 2021",
+      "location": "Guna, India",
+      "description": [
+        "Percentage: 65%",
+        "Completed 12th grade with Physics, Chemistry, and Mathematics as core subjects"
+      ]
+    }
+  ]
+}

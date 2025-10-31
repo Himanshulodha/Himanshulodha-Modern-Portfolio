@@ -1,0 +1,210 @@
+{
+  "projects": [
+    {
+      "name": "Sales Mart Prediction",
+      "description": "Built and deployed a machine learning–based sales prediction web application using Flask and Python. Designed and trained a predictive model achieving 89% accuracy in forecasting individual grocery item sales.",
+      "image": "/big_mart_Sales.png",
+      "tags": [
+        "Flask",
+        "Python",
+        "Machine Learning",
+        "Numpy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "VS Code"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source Code",
+          "href": "https://github.com/Himanshulodha/Sales_mart_model_project",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Search Engine Recommendation",
+      "description": "Designed a search engine leveraging NLP and Streamlit for enhanced user query interpretation. Improved search relevance by 79%, offering more accurate product recommendations.",
+      "image": "/Speech recog.png",
+      "tags": [
+        "Python",
+        "Numpy",
+        "Pandas",
+        "NLP",
+        "Streamlit",
+        "Jupyter Notebook"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "View Website",
+          "href": "https://multiresearch.streamlit.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Search-Engine-Recommendation",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "LLM Multi-Agent Knowledge Navigator Project",
+      "description": "Led the development of an AI-driven information retrieval tool powered by LangChain and integrated with APIs. Delivered 85-95% accuracy for academic and general searches, providing reliable knowledge insights through a user-friendly interface.",
+      "image": "/AI Multi agent.png",
+      "tags": [
+        "LangChain",
+        "Huggingface",
+        "ChatGroq LLM",
+        "Streamlit",
+        "Docker",
+        "DuckDuckGo",
+        "APIs"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/LLM-Projects",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Conversational Q&A Chatbot Implementation with PDF support and chat history",
+      "description": "The application manages chat history using session states and integrates document retrieval with conversational memory. The code includes error handling, prompt engineering, and demonstrates running the Streamlit app for interactive Q&A with uploaded PDFs.",
+      "image": "/pdf_chat.png",
+      "tags": [
+        "Streamlit",
+        "Python",
+        "HuggingFace embeddings",
+        "ChromaDB",
+        "LangChain",
+        "GitHub Automation"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Conversational-Q-A-Chatbot---Chat-With-Pdf-Along-With-Chat-History?tab=readme-ov-file",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Search Engine With Longchain Tools And Agents",
+    "description": "This project demonstrates how to build a search-powered conversational AI agent using LangChain and Groq LLMs, wrapped in a clean Streamlit UI. The chatbot doesn’t just generate answers from a single model — instead, it uses LangChain Agents that can reason, choose tools, and act before responding.",
+      "image": "/langchain_agent.png",
+      "tags": [
+        "LangChain",
+        "Groq LLMs",
+        "LangChain Agent",
+        "Agent Execution Flow",
+        "Streamlit",
+        "Interactive UI",
+        "Integrated Tools"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Search-Engine-With-Longchain-Tools-And-Agents",
+          "icon": "colab"
+        }
+      ]
+    },
+    {
+      "name": "Animated Solar System",
+      "description": "A beautiful visual representation of solar system in 2D and 3D with information about each planets and links to wikipedia.",
+      "image": "/solar system.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Canvas API",
+        "VS Code"
+      ],
+      "type": "Webdev",
+      "links": [
+        {
+          "name": "View Website",
+          "href": "https://himanshulodha.github.io/Animated-Solar-System/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source code",
+          "href": "https://github.com/Himanshulodha/Animated-Solar-System",
+          "icon": "github"
+        }
+        
+      ]
+    },
+    {
+      "name": "Real Time Stock Price Analysis",
+      "description": "The project's objectives are to build a functional tool that fetches real-time stock data, analyzes it using moving averages, and presents it through interactive visualizations. The tool aims to be user-friendly, educational, and practical, providing insights into stock market trends and aiding in financial analysis.",
+      "image": "/stock.jpg",
+      "tags": [
+        "Python",
+        "Jupyter Notebook",
+        "Pandas",
+        "Matplotlib",
+        "yfinance",
+        "Streamlit",
+        "Plotly",
+        "Built-in Python modules"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Real-Time-Stock-Price-Analysis/tree/main",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "A personal portfolio website built with HTML,CSS and JavaScript, showcasing projects and skills.",
+      "image": "/Personal_protf.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "type": "Webdev",
+      "links": [
+        {
+          "name": "View Website",
+          "href": "https://himanshulodha.github.io/Portfolio_Website/",
+          "icon": "globe"
+        }, 
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Portfolio_Website?tab=readme-ov-file",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Data Professional Model",
+      "description": "Designed and implemented a dashboard using Power BI and Python to streamline data handling and analysis for data professionals, resulting in a 91 percent increase in work efficiency.",
+      "image": "/dashboard.png",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Jupyter Notebook",
+        "Power BI"
+      ],
+      "type": "AI/ML/DL",
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Himanshulodha/Data-Professional-Model",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

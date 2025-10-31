@@ -1,0 +1,55 @@
+{
+  "experience": [
+    {
+      "name": "Bonasys IT Solutions Pvt. Ltd.",
+      "href": "https://bonasys.in/",
+      "title": "Data Science Intern",
+      "logo": "/bonasys.jpg",
+      "start": "Jan 2025",
+      "end": "May 2025",
+      "location": "Indore, India",
+      "description": [
+       "Built a sentiment analysis model using Logistic Regression and XGBoost to classify restaurant reviews with high accuracy.",
+        "Conducted extensive data cleaning and visualization using Python, Pandas, and Matplotlib to extract meaningful insights from unstructured feedback.",
+        "Developed and deployed a full ML pipeline integrated with a web-based GUI for real-time sentiment prediction.",
+        "Delivered data-driven recommendations to enhance restaurant service quality based on customer sentiment trends."
+      ],
+      "links": [
+        {
+          "name": "About Company",
+          "href": "https://bonasys.in/about-us/",
+          "icon": "globe"
+        },
+        {
+          "name": "Certificate",
+          "href": "https://drive.google.com/file/d/1prF_3csntPPWPobkHBl5UgkZ-rQyDALg/view?usp=drive_link",
+          "icon": "file"
+        }
+      ]
+      
+    },
+    {
+      "name": "Cognifyz Technologies",
+      "href": "https://cognifyz.com/",
+      "title": "Machine Learning Intern",
+      "logo": "/cognifyz.jpg",
+      "start": "Apr 2024",
+      "end": "June 2024",
+      "location": "Nagpur, India",
+      "description": [
+       "Built a sentiment analysis model using Logistic Regression and XGBoost to classify restaurant reviews with high accuracy.",
+        "Conducted extensive data cleaning and visualization using Python, Pandas, and Matplotlib to extract meaningful insights from unstructured feedback.",
+        "Developed and deployed a full ML pipeline integrated with a web-based GUI for real-time sentiment prediction.",
+        "Delivered data-driven recommendations to enhance restaurant service quality based on customer sentiment trends."
+      ],
+      "links": [
+        {
+          "name": "About Company",
+          "href": "https://cognifyz.com/about-us/",
+          "icon": "globe"
+        }
+      ]
+    }
+
+  ]
+}

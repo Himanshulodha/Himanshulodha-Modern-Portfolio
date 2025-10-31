@@ -1,0 +1,24 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/himanshu-lodha-2nd-350b92216/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/Himanshulodha",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:Himanshulodha3302@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "name": "Twitter",
+      "href": "https://x.com/LodhaAnu",
+      "icon": "twitter"
+    }
+  ]
+}
